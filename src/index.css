@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.h1-font {
+  font-family: 'Bitcount Ink', sans-serif;
+}
+
+.button-font {
+    font-family: 'Pixelify Sans', monospace;
+}
